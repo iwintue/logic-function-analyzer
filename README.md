@@ -20,7 +20,7 @@ A Java-based application designed for parsing boolean expressions and performing
 ### How to Run
 1. Clone the repository:
 ```bash
-git clone [https://github.com/iwintue/logic-function-analyzer.git](https://github.com/iwintue/logic-function-analyzer.git)
+git clone https://github.com/iwintue/logic-function-analyzer.git
 ```
 ## <a name="описание-на-русском">Описание на Русском</a>
 Приложение на языке Java для парсинга логических выражений и проведения логического анализа. Инструмент автоматизирует процесс генерации таблиц истинности и построения совершенных нормальных форм.
