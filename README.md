@@ -22,6 +22,7 @@ A Java-based application designed for parsing boolean expressions and performing
 ```bash
 git clone [https://github.com/iwintue/logic-function-analyzer.git](https://github.com/iwintue/logic-function-analyzer.git)
 ```
+## <a name="описание-на-русском">Описание на Русском</a>
 Приложение на языке Java для парсинга логических выражений и проведения логического анализа. Инструмент автоматизирует процесс генерации таблиц истинности и построения совершенных нормальных форм.
 ### Функционал
 * **Парсинг выражений:** Обработка сложных логических выражений со стандартными операторами (И, ИЛИ, НЕ, импликация, эквивалентность).
